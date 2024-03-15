@@ -1,5 +1,5 @@
 const mongoose = require('mongoose');
-const MONGODB_URI = "mongodb+srv://richardmontoyaa1:Nn2gzy3EeLIyvcTq@cluster0.aqp1drz.mongodb.net/";
+const MONGODB_URI = "mongodb+srv://richardmontoyaa1:3147887840@notasdb.wzdavoh.mongodb.net/";
 
 let conn = null;
 
